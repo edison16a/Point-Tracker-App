@@ -4,6 +4,7 @@ Points Manager: Track, Earn, and Have Fun!
 
 Make every decision more exciting with Points Manager! Whether you’re keeping track of personal goals, friendly competitions, or group challenges, this app helps you stay organized and motivated while having fun.  
 
+**App Store Link:** https://apps.apple.com/us/app/edisons-point-tracker/id6738925779
 ------------------------------------------------
 
 Key Features 
